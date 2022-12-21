@@ -1,8 +1,12 @@
+![Masterhead](https://img.freepik.com/vector-premium/ilustracion-plana-full-stack-developer-adecuada-banners-web-infografias-libros-redes-sociales-otros-activos-graficos_210682-78.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Abhinav Pandey</h1>
 <h3 align="center">A passionate developer from India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavpandeyap&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavpandeyap" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavpandeyap" alt="abhinavpandeyap" /></a> </p>
+ <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" align="right" width="500" alt="Full Stack Developer"/>
+
 
 - 🔭 I’m currently working on [Solution(A .NET Project)](https://github.com/abhinavpandeyap/Solution)
 
