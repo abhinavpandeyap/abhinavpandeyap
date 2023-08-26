@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Net-Banking Application](https://github.com/abhinavpandeyap/Solution)
 
-- 🌱 I’m currently learning **.NET Framework**
+- 🌱 I’m currently learning **JAVA EE**
 
 - 💬 Ask me about **Web Development, Blockchain**
 
