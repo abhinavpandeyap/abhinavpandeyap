@@ -8,9 +8,9 @@
  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" align="right" width="500" alt="Full Stack Developer"/>
 
 
-- 🔭 I’m currently working on [Net-Banking Application](https://github.com/abhinavpandeyap/Solution)
+- 🔭 I’m currently working on [Shopping Web App]
 
-- 🌱 I’m currently learning **JAVA EE**
+- 🌱 I’m currently learning **Microservices**
 
 - 💬 Ask me about **Web Development, Blockchain**
 
